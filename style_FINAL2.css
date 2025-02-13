@@ -174,7 +174,7 @@ body {
   left: 50%;
   width: 260%; /* Scale the image slightly larger to cover the container fully while rotating */
   height: 260%; /* Ensures the image fills the box during rotation */
-  background: url('https://github.com/christopherholz1983/christopherholz1983.github.io/blob/main/img/bild_zentriert_blau.png?raw=true') no-repeat center center;
+  background: url('https://github.com/christopherholz1983/website/blob/main/img/bild_zentriert_blau.png?raw=true') no-repeat center center;
   background-size: cover; /* Makes sure the image scales proportionally */
   transform: translate(-50%, -50%); /* Center the image within the container */
   animation: rotate 60s linear infinite; /* Apply rotation animation */
@@ -249,7 +249,7 @@ body {
 }
 
 .right-image:hover {
-  content: url('https://github.com/christopherholz1983/christopherholz1983.github.io/blob/main/img/chrissi_animation_NEU.gif?raw=true');
+  content: url('https://github.com/christopherholz1983/website/blob/main/img/chrissi_animation_NEU.gif?raw=true');
 }
 
 
